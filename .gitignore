@@ -1,0 +1,16 @@
+# Solidity
+*.swp
+*.swo
+*.solc-output.json
+*.abi
+*.bin
+*.abi.json
+
+# Truffle
+build/
+contracts/
+Migrations.sol
+
+# Node.js
+node_modules/
+package-lock.json
